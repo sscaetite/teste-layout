@@ -4,6 +4,7 @@ module.exports = {
     extend: {
       fontFamily: {
         titillium: ['"Titillium Web"'],
+        lato: ["Lato"],
       },
     },
   },

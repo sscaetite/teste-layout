@@ -34,6 +34,9 @@ import search from "../../assets/icons/search.svg";
 import cart from "../../assets/icons/cart.svg";
 import logoMaeztra from "../../assets/images/logo-maeztra.png";
 import logoMaeztraNovo from "../../assets/images/logo-maeztra-novo.png.png";
+import mail from "../../assets/icons/mail.svg";
+import airplane from "../../assets/icons/airplane.svg";
+import coverModal from "../../assets/images/cover-modal.png";
 
 const Icons = {
   iconDress,
@@ -67,6 +70,9 @@ const Icons = {
   bag,
   heart,
   more,
+  mail,
+  airplane,
+  coverModal,
 };
 
 export default Icons;
